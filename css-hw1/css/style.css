@@ -1,0 +1,56 @@
+/******************** HEADER ********************/
+
+body {
+    background-color: #E9DAC1;
+    font-family: 'Righteous', cursive;
+}
+
+.header-baslik, nav, .sayfa-adi, ul, ol{
+    text-align: center;
+    color: #54BAB9;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+/******************** NAVBAR ********************/
+
+.nav-link {
+    margin: 30px;
+}
+
+hr{
+    border: 5px solid #F7ECDE;
+    border-radius: 10px;
+    width: 50%;
+  }
+
+/******************** ETİKETLER ********************/
+
+.sayfa-adi {
+    color: #9A86A4;
+}
+
+p {
+    color: #BE8C63;
+}
+
+ul.anasayfa-list {
+    list-style-position: inside;
+    color: #A084CF;
+}
+
+ol.products {
+    list-style-position: inside;
+    color: #A084CF;
+}
+
+.caption {
+    display: block;
+}
+
+.vission-mission {
+    text-align: left;
+}
