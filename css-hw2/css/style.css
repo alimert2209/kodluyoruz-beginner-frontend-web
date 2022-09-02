@@ -24,7 +24,6 @@ input.input-text{
 
 table {
     width: 90%;
-    height: 75px;
     margin: auto;
     display: block;
     text-align: center;
@@ -32,18 +31,18 @@ table {
 
 .td-1 {
     background-color: #7de5da;
-    width: 10%;
+    width: 5%;
 }
 
 .td-2 {
     background-color: #70cbc2;
-    width: 15%;
+    width: 10%;
 }
 
 .td-3 {
     background-color: 
     #63b3a9;
-    width: 60%;
+    width: 70%;
 }
 
 a {
