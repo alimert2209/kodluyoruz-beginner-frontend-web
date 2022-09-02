@@ -180,7 +180,7 @@
   cursor: pointer;
   user-select: none;
 
-  border: none;
+  border: 1px solid transparent;
   margin-right: 10px;
 }
 
@@ -193,6 +193,6 @@
   cursor: pointer;
   user-select: none;
 
-  border: none;
+  border: 1px solid transparent;
   margin-left: 10px;
 }
