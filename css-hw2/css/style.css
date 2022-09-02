@@ -1,0 +1,51 @@
+.google-logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.search-bar {
+    background-color: #eeeeee;
+    width: 90%;
+    height: 75px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+p {
+    margin: 0;
+    text-align: center;
+}
+
+input.input-text{
+    width: 40%;
+}
+
+table {
+    width: 90%;
+    height: 75px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.td-1 {
+    background-color: #7de5da;
+    width: 10%;
+}
+
+.td-2 {
+    background-color: #70cbc2;
+    width: 15%;
+}
+
+.td-3 {
+    background-color: 
+    #63b3a9;
+    width: 60%;
+}
+
+a {
+    display: block;
+}
